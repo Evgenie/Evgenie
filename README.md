@@ -9,6 +9,6 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://vk.com/evgeniy_shukin">
-  <img src="https://img.shields.io/badge/VK-blue?logo=vk&logoСolor=white&style=for-the-badge" alt="VK Badge"/>
+  <img src="https://img.shields.io/badge/VK-blue?logo=vk&logoColor=white&style=for-the-badge" alt="VK Badge"/>
   </a>
 </div>
