@@ -20,7 +20,7 @@
 
 ---
 
-### :man_technologist: About Me :
+## :man_technologist: About Me :
 
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 - :telescope: I’m learning as a Frontend Developer and contributing to frontend for building web applications.
@@ -30,6 +30,26 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - :zap: In my free time, I solve problems on CodeWars and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Evgeniy-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/evgeniy-shchukin-7bb481249/) or [![Vk Badge](https://img.shields.io/badge/-Evgeniy-blue?style=flat&logo=vk&logoColor=white)](https://vk.com/evgeniy_shukin)
+
+---
+
+## Projects for learning OOP:
+### Game Destruction of Circles
+https://github.com/Evgenie/killCreateBalls
+### Tetris game
+https://github.com/Evgenie/tetrisJS
+Applied knowledge of HTML5, Canvas API, OOP, JavaScript
+
+## Project for learning React and TypeScript:
+https://github.com/Evgenie/react-uikit
+Applied knowledge of HTML5, CSS3, React, react-router-dom, react hooks, Redux, TypeScript, Emotion, ESLint, Prettier, functional programming
+
+## Small project to use XMLHttpRequest:
+https://github.com/Evgenie/testingJSONXMLHTTPREQUEST
+
+## Currently in the process of building a portfolio website:
+https://github.com/Evgenie/portfolio
+Applied knowledge of HTML5, CSS3, React, react hocks, TypeScript, Emotion, ESLint, Prettier, functional programming
 
 ---
 
