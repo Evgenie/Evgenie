@@ -7,7 +7,7 @@
     <a href="https://vk.com/evgeniy_shukin">
       <img src="https://img.shields.io/badge/VK-blue?logo=vk&logoColor=white&style=for-the-badge" alt="VK Badge"/>
     </a>
-    <a href="https://www.linkedin.com/in/evgeniy-shchukin-7bb481249/">
+    <a href="https://www.linkedin.com/in/evgeniy-shchukin/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
@@ -29,7 +29,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :zap: In my free time, I solve problems on CodeWars and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Evgeniy-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/evgeniy-shchukin-7bb481249/) or [![Vk Badge](https://img.shields.io/badge/-Evgeniy-blue?style=flat&logo=vk&logoColor=white)](https://vk.com/evgeniy_shukin)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Evgeniy-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/evgeniy-shchukin/) or [![Vk Badge](https://img.shields.io/badge/-Evgeniy-blue?style=flat&logo=vk&logoColor=white)](https://vk.com/evgeniy_shukin)
 
 ---
 
