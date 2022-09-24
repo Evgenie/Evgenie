@@ -44,6 +44,9 @@ https://github.com/Evgenie/tetrisJS
 https://github.com/Evgenie/react-uikit
 - Applied knowledge of HTML5, CSS3, React, react-router-dom, react hooks, Redux, TypeScript, Emotion, ESLint, Prettier, functional programming
 
+https://github.com/Evgenie/test-task-mba
+- Applied knowledge of Next.JS, SSR, HTML5, CSS3, React, TypeScript, ESLint, functional programming
+
 ## My small project to use XMLHttpRequest:
 https://github.com/Evgenie/testingJSONXMLHTTPREQUEST
 
