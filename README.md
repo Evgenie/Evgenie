@@ -29,7 +29,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :zap: In my free time, I solve problems on CodeWars and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Evgeniy-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/evgeniy-shchukin/) or [![Vk Badge](https://img.shields.io/badge/-Evgeniy-blue?style=flat&logo=vk&logoColor=white)](https://vk.com/evgeniy_shukin)
+- :mailbox:How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/-Evgeniy-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/evgeniy-shchukin/) or [![VK Badge](https://img.shields.io/badge/-Evgeniy-blue?style=flat&logo=vk&logoColor=white)](https://vk.com/evgeniy_shukin)
 
 ---
 
@@ -45,7 +45,7 @@ https://github.com/Evgenie/react-uikit
 - Applied knowledge of HTML5, CSS3, React, react-router-dom, react hooks, Redux, TypeScript, Emotion, ESLint, Prettier, functional programming
 
 https://github.com/Evgenie/test-task-mba
-- Applied knowledge of Next.JS, SSR, HTML5, CSS3, React, TypeScript, ESLint, functional programming
+- Applied knowledge of Next.js, SSR, HTML5, CSS3, React, TypeScript, ESLint, functional programming
 
 ## My small project to use XMLHttpRequest:
 https://github.com/Evgenie/testingJSONXMLHTTPREQUEST
@@ -61,7 +61,7 @@ https://github.com/Evgenie/portfolio
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="NextJS" alt="NextJS " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="NextJS" alt="NextJS " width="40" height="40" style={{filter: 'invert(100%)'}}/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -74,7 +74,7 @@ https://github.com/Evgenie/portfolio
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" title="YARN" alt="YARN" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40"/>
 </div>
 
 ---
