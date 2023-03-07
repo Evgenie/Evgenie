@@ -35,13 +35,6 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ---
 
-## My projects for learning OOP:
-### Game Destruction of Circles
-https://github.com/Evgenie/killCreateBalls
-### Tetris game
-https://github.com/Evgenie/tetrisJS
-- Applied knowledge of HTML5, Canvas API, OOP, JavaScript
-
 ## My projects for learning React and TypeScript:
 https://github.com/Evgenie/react-uikit
 - Applied knowledge of HTML5, CSS3, React, react-router-dom, react hooks, Redux, TypeScript, Emotion, ESLint, Prettier, functional programming
@@ -50,9 +43,15 @@ https://github.com/Evgenie/portfolio
 https://github.com/Evgenie/test-task-mba
 - Applied knowledge of Next.js, SSR, HTML5, CSS3, React, TypeScript, ESLint, functional programming
 
+## My projects for learning OOP:
+### Game Destruction of Circles
+https://github.com/Evgenie/killCreateBalls
+### Tetris game
+https://github.com/Evgenie/tetrisJS
+- Applied knowledge of HTML5, Canvas API, OOP, JavaScript
+
 ## My small project to use XMLHttpRequest:
 https://github.com/Evgenie/testingJSONXMLHTTPREQUEST
-
 
 ---
 
