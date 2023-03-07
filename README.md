@@ -58,7 +58,7 @@ https://github.com/Evgenie/portfolio
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div align="center" style="background: invert(100%)">
+<div align="center" style="background: white">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="NextJS" alt="NextJS " width="40" height="40"/>&nbsp;
