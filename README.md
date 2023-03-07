@@ -38,8 +38,10 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ## My projects for learning React and TypeScript:
 https://github.com/Evgenie/react-uikit
 - Applied knowledge of HTML5, CSS3, React, react-router-dom, react hooks, Redux, TypeScript, Emotion, ESLint, Prettier, functional programming
+
 https://github.com/Evgenie/portfolio
 - Applied knowledge of HTML5, CSS3, React, react hocks, TypeScript, Emotion, ESLint, Prettier, functional programming
+
 https://github.com/Evgenie/test-task-mba
 - Applied knowledge of Next.js, SSR, HTML5, CSS3, React, TypeScript, ESLint, functional programming
 
