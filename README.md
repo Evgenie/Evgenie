@@ -82,7 +82,7 @@ https://github.com/Evgenie/testingJSONXMLHTTPREQUEST
 
 ### :fire: My Stats :
 
-<div style="display: flex; flex-wrap: nowrap;">
+<div align="center">
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Evgenie&theme=dark&hide_border=true&fire=DD2727&sideNums=129ADD&currStreakNum=129ADD&currStreakLabel=DD2727&background=000000&mode=weekly&date_format=j&nbsp;M[&nbsp;Y])](https://git.io/streak-stats)
 
