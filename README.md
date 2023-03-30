@@ -23,7 +23,9 @@
 ## :man_technologist: About Me :
 
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-- 🛠️🖥️ I work as a middle Frontend Developer in [@70-7h3-m00n](https://github.com/70-7h3-m00n)
+- 🛠️🖥️ I work as Frontend Developer in [Finam trade](https://trading.finam.ru/)
+
+- 🛠️🖥️ Former Frontend Developer in [@70-7h3-m00n](https://github.com/70-7h3-m00n)
 
 - 🔭 I’m learning as a Frontend Developer and contributing to frontend for building web applications.
 
