@@ -74,7 +74,7 @@
 ![OOP](https://img.shields.io/badge/-OOP-4EC9B0)
 
 **Styling & Tools**  
-![CSS-in-JS](https://img.shields.io/badge/-CSS--in--JS-DB7093?logo=styledcomponents)
+![CSS-in-JS](https://img.shields.io/badge/-CSS--in--JS-333?logo=styledcomponents)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest)
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress)
