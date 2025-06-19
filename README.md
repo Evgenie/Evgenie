@@ -1,95 +1,86 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <div id="badges">
-    <a href="https://github.com/Evgenie">
-      <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white&style=for-the-badge" alt="GiHub Badge"/>
-    </a> 
-    <a href="https://vk.com/evgeniy_shukin">
-      <img src="https://img.shields.io/badge/VK-blue?logo=vk&logoColor=white&style=for-the-badge" alt="VK Badge"/>
-    </a>
-    <a href="https://www.linkedin.com/in/evgeniy-shchukin/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=Evgenie&style=flat-square&color=blue" alt="" align="center"/>
-  <h1>
-    Hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>  
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
+  <h1>Hello, I'm Evgeniy! 👋</h1>
+  
+  [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)](https://github.com/Evgenie)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/evgeniy-shchukin/)
+  [![VK](https://img.shields.io/badge/VK-0077FF?logo=vk&style=for-the-badge)](https://vk.com/evgeniy_shukin)
+  
+  <img src="https://komarev.com/ghpvc/?username=Evgenie&color=blue&style=flat-square">
 </div>
 
 ---
 
-## :man_technologist: About Me :
+## 👨‍💻 About Me
 
-I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-- 🛠️🖥️ I work as Frontend Developer in [Getscreen.me](https://getscreen.me)
-  
-- 🛠️🖥️ Former Frontend Developer in [Finam trade](https://trading.finam.ru/)
+**Frontend Developer** from Russia specializing in building web applications.  
+🚀 Core focus:
+- Currently working at [Getscreen.me](https://getscreen.me)
+- Former developer at [Finam Trade](https://trading.finam.ru/) and [@70-7h3-m00n](https://github.com/70-7h3-m00n)
+- Continuously learning modern frontend technologies
+- Exploring technical content writing
+- Solving challenges on Codewars in free time
+- Analyzing tech articles and case studies
 
-- 🛠️🖥️ Former Frontend Developer in [@70-7h3-m00n](https://github.com/70-7h3-m00n)
-
-- 🔭 I’m learning as a Frontend Developer and contributing to frontend for building web applications.
-
-- 🌱 Exploring Technical Content Writing.
-
-- ⚡ In my free time, I solve problems on CodeWars and read tech articles.
-
-- 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/-Evgeniy-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/evgeniy-shchukin/) or [![VK Badge](https://img.shields.io/badge/-Evgeniy-blue?style=flat&logo=vk&logoColor=white)](https://vk.com/evgeniy_shukin)
+**Connect with me**:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--Profile?logo=linkedin)](https://www.linkedin.com/in/evgeniy-shchukin/) 
+[![VK](https://img.shields.io/badge/VK--Message?logo=vk)](https://vk.com/evgeniy_shukin)
 
 ---
 
-## My projects for learning React and TypeScript:
-https://github.com/Evgenie/react-uikit
-- Applied knowledge of HTML5, CSS3, React, react-router-dom, react hooks, Redux, TypeScript, Emotion, ESLint, Prettier, functional programming
+## 🚀 Featured Projects
 
-https://github.com/Evgenie/portfolio
-- Applied knowledge of HTML5, CSS3, React, react hocks, TypeScript, Emotion, ESLint, Prettier, functional programming
+### React & TypeScript
+[**React UI Kit**](https://github.com/Evgenie/react-uikit)  
+`React` `TypeScript` `Redux` `Emotion` `Functional Programming`  
+Component library with styling system
 
-https://github.com/Evgenie/test-task-mba
-- Applied knowledge of Next.js, SSR, HTML5, CSS3, React, TypeScript, ESLint, functional programming
+[**Portfolio**](https://github.com/Evgenie/portfolio)  
+`Next.js` `SSR` `Emotion` `TypeScript`  
+Interesting design and animations
 
-## My projects for learning OOP:
-### Game Destruction of Circles
-https://github.com/Evgenie/killCreateBalls
-### Tetris game
-https://github.com/Evgenie/tetrisJS
-- Applied knowledge of HTML5, Canvas API, OOP, JavaScript
+[**MBA Test Task**](https://github.com/Evgenie/test-task-mba)  
+`Next.js` `SSR` `TypeScript`  
+SSR implementation test task
 
-## My small project to use XMLHttpRequest:
-https://github.com/Evgenie/testingJSONXMLHTTPREQUEST
+### JavaScript Games
+[**Circle Destruction Game**](https://github.com/Evgenie/killCreateBalls)  
+`Canvas API` `OOP` `JavaScript`  
+Game mechanics with object physics
+
+[**Tetris Game**](https://github.com/Evgenie/tetrisJS)  
+`Canvas API` `OOP` `JavaScript`  
+Classic Tetris with scoring system
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+## 🛠️ Tech Stack
+
+**Core Technologies**:  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
+
+**Development Tools**:  
+![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?logo=eslint&logoColor=white)
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+
+**Styling**:  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![Emotion](https://img.shields.io/badge/-Emotion-DB7093)
+![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white)
+
+---
+
+## 📊 Activity Stats
 
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="NextJS" alt="NextJS " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="ESLint" alt="ESLint" width="40" height="40"/>&nbsp;
-  <img src="prettier-2.svg" title="Prettier" alt="Prettier" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" title="YARN" alt="YARN" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40"/>
-</div>
-
----
-
-### :fire: My Stats :
-
-<div align="center">
   
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Evgenie&theme=transparent&hide_border=true&fire=DD2727&sideNums=129ADD&currStreakNum=129ADD&currStreakLabel=DD2727&ring=ff7919ff&exclude_days=Sun,Sat)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Evgenie&theme=transparent&fire=DD2727&sideNums=129ADD&currStreakLabel=DD2727)](https://git.io/streak-stats)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evgenie&layout=compact&theme=transparent&hide_border=true&card_width=500)](https://github.com/anuraghazra/github-readme-stats) 
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Evgenie&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
