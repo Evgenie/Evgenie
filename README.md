@@ -114,8 +114,8 @@ Frontend Infrastructure Specialization
 
 <div align="center">
   
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Evgenie&theme=transparent&fire=DD2727&sideNums=129ADD&currStreakLabel=DD2727)](https://git.io/streak-stats)
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=Evgenie&theme=transparent&hide_border=true&fire=DD2727&sideNums=129ADD&currStreakNum=129ADD&currStreakLabel=DD2727&ring=ff7919ff&exclude_days=Sun,Sat)
 
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Evgenie&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Evgenie&layout=compact&theme=transparent)
 
 </div>
