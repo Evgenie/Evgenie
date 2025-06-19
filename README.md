@@ -15,7 +15,7 @@
 
 ## 👨‍💻 Professional Profile
 
-**Senior Frontend Developer** with 9+ years of experience specializing in React ecosystem and performance optimization.  
+**Senior Frontend Developer** with 5 years of experience specializing in React ecosystem and performance optimization.  
 🚀 Core expertise:
 - **Current**: Senior React Developer at [PRO32/Getscreen.me](https://getscreen.me) leading migration to React 19+
 - **Former**: Frontend Developer at [Finam Trade](https://trading.finam.ru/) (15% conversion increase)
