@@ -88,7 +88,7 @@ https://github.com/Evgenie/testingJSONXMLHTTPREQUEST
 
 <div align="center">
   
-  [![GitHub Streak](http://streak-stats.demolab.com/?user=Evgenie&theme=transparent&hide_border=true&fire=DD2727&sideNums=129ADD&currStreakNum=129ADD&currStreakLabel=DD2727&ring=ff7919ff&mode=daily&exclude_days=Sun,Sat)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Evgenie&theme=transparent&hide_border=true&fire=DD2727&sideNums=129ADD&currStreakNum=129ADD&currStreakLabel=DD2727&ring=ff7919ff&mode=daily&exclude_days=Sun,Sat)](https://git.io/streak-stats)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evgenie&layout=compact&theme=transparent&hide_border=true&card_width=500)](https://github.com/anuraghazra/github-readme-stats) 
 
