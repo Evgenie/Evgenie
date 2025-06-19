@@ -61,26 +61,28 @@
 ## 🛠️ Tech Stack
 
 **Frontend Core**  
-## ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-## ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-## ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs)
-## ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux)
+![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
 
 **Architecture & Patterns**  
-##![FSD](https://img.shields.io/badge/-FSD_Architecture-2496ED)
-##![SOLID](https://img.shields.io/badge/-SOLID_Principles-FF6B6B)
-##![OOP](https://img.shields.io/badge/-OOP-4EC9B0)
+![FSD](https://img.shields.io/badge/-FSD_Architecture-2496ED)
+![SOLID](https://img.shields.io/badge/-SOLID_Principles-FF6B6B)
+![OOP](https://img.shields.io/badge/-OOP-4EC9B0)
 
 **Styling & Tools**  
-##![CSS-in-JS](https://img.shields.io/badge/-CSS--in--JS-DB7093?logo=styledcomponents)
-##![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black)
-##![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest)
-##![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress)
+![CSS-in-JS](https://img.shields.io/badge/-CSS--in--JS-DB7093?logo=styledcomponents)
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black)
+![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress)
 
 **Backend & APIs**  
-##![gRPC](https://img.shields.io/badge/-gRPC-4285F4?logo=google)
-##![Protobuf](https://img.shields.io/badge/-Protocol_Buffers-4A76CD)
-##![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs)
+![gRPC](https://img.shields.io/badge/-gRPC-4285F4?logo=google)
+![Protobuf](https://img.shields.io/badge/-Protocol_Buffers-4A76CD)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs)
 
 ---
 
