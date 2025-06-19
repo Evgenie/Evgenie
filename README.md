@@ -80,7 +80,7 @@
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress)
 
 **Backend & APIs**  
-![gRPC](https://img.shields.io/badge/-gRPC-4285F4?logo=google)
+![gRPC](https://img.shields.io/badge/-gRPC-333?logo=google)
 ![Protobuf](https://img.shields.io/badge/-Protocol_Buffers-4A76CD)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs)
 
