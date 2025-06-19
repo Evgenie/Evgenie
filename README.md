@@ -61,10 +61,10 @@
 ## 🛠️ Tech Stack
 
 **Frontend Core**  
-##![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-##![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-##![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs)
-##![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux)
+## ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+## ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+## ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs)
+## ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux)
 
 **Architecture & Patterns**  
 ##![FSD](https://img.shields.io/badge/-FSD_Architecture-2496ED)
