@@ -82,7 +82,7 @@
 **Backend & APIs**  
 ![gRPC](https://img.shields.io/badge/-gRPC-333?logo=google)
 ![Protobuf](https://img.shields.io/badge/-Protocol_Buffers-4A76CD)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs)
+![Node.js](https://img.shields.io/badge/-Node.js-333?logo=nodedotjs)
 
 ---
 
