@@ -6,7 +6,7 @@
   [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)](https://github.com/Evgenie)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/evgeniy-shchukin/)
   [![VK](https://img.shields.io/badge/VK-0077FF?logo=vk&style=for-the-badge)](https://vk.com/evgeniy_shukin)
-  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&style=for-the-badge)](https://t.me/eu_bro)
+  [![Telegram](https://img.shields.io/badge/Telegram-333?logo=telegram&style=for-the-badge)](https://t.me/eu_bro)
   
   <img src="https://komarev.com/ghpvc/?username=Evgenie&color=blue&style=flat-square">
 </div>
